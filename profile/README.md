@@ -13,7 +13,7 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/Lightprotocol/examples-light-token">Examples</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Lightprotocol/examples-light-token">API Reference</a>
+  <a href="https://zkcompression.com/api-reference/sdk">API Reference</a>
 </p>
 </p>
 
