@@ -2,7 +2,7 @@
   <img width="120" src="https://raw.githubusercontent.com/Lightprotocol/light-protocol/main/assets/logo.svg" alt="Light Protocol">
 </p>
 <h3 align="center">Light Protocol APIs reduce the cost of Tokens and Accounts on Solana by 99%</h3>
-<p align="center">Built for high performance DeFi, Stablecoin Payments, and more.</p>
+<p align="center">Built for high-performance DeFi, Stablecoin Payments, and more.</p>
 
 <br>
 
