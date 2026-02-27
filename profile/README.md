@@ -22,8 +22,7 @@
   &nbsp;
   <a href="https://github.com/Lightprotocol/skills"><img src="https://img.shields.io/badge/Agent%20Skills-Compatible-green.svg" alt="Agent Skills"></a>
   &nbsp;
-  <a href="https://discord.com/invite/WDAAaX6je2"><img src="https://img.shields.io/discord/992616840251584633?label=Discord&style=flat-square&color=5a66f6" alt="Discord"></a>
+  <a href="https://discord.com/invite/WDAAaX6je2"><img src="https://img.shields.io/discord/892771619687268383?label=discord&logo=discord" alt="Discord"></a>
   &nbsp;
   <a href="https://twitter.com/lightprotocol"><img src="https://img.shields.io/badge/Twitter-Follow_us-1d9bf0.svg?style=flat-square" alt="Twitter"></a>
 </p>
-
